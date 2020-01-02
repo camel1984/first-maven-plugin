@@ -17,3 +17,6 @@ add this to your ~/.m2/setting.xml:
 then:
 
 mvn first:echo
+
+mvn myPlugin:zip-fork
+mvn first:zip-fork
